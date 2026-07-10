@@ -1,0 +1,4 @@
+#friend-assistant-dialog{width:min(95vw,520px)}
+.friend-message{padding:.5rem .75rem}
+.friend-message-user{text-align:right}
+.friend-message-assistant{text-align:left}
