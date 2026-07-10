@@ -1,1 +1,0 @@
-export const routes={home:'/home'};export function initRouter(){console.log('Router initialized');}

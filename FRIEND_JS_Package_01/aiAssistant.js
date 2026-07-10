@@ -1,1 +1,0 @@
-export function askAI(q){return 'AI placeholder: '+q;}

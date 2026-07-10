@@ -1,1 +1,0 @@
-export function initNavigation(){document.querySelectorAll('button').forEach(b=>b.addEventListener('click',()=>console.log('Clicked',b.id)));}

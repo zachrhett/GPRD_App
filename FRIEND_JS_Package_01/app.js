@@ -1,1 +1,0 @@
-import {initRouter} from './router.js';import {initNavigation} from './navigation.js';document.addEventListener('DOMContentLoaded',()=>{initRouter();initNavigation();});

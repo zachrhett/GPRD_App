@@ -1,1 +1,0 @@
-export function preloadImages(list){list.forEach(src=>{const i=new Image();i.src=src;});}
