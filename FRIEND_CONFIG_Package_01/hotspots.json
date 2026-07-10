@@ -1,0 +1,15 @@
+{
+  "global": {
+    "back": "history.back()",
+    "home": "homescreen.png",
+    "alerts": "alerts.png",
+    "assistant": "AI Assistant",
+    "voice": "Voice Navigation"
+  },
+  "composite_over": {
+    "sales_financial": "sales-fin.png",
+    "operations_quality": "per-qual.png",
+    "people_leadership": "people-leader.png",
+    "alerts_risks": "storealerts.png"
+  }
+}

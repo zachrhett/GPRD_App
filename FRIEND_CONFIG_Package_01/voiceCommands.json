@@ -1,0 +1,11 @@
+{
+  "open production": "/production",
+  "open replenishment": "/replenishment",
+  "open inventory": "/inventory",
+  "open store scorecard": "/store-scorecard",
+  "open composite": "/composite",
+  "open maximo": "/maximo",
+  "open labor": "/labor",
+  "open ordering": "/ordering",
+  "open compliance": "/compliance"
+}

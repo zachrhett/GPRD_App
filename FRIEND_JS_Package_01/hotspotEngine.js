@@ -1,0 +1,1 @@
+export function registerHotspots(map){window.friendHotspots=map;}

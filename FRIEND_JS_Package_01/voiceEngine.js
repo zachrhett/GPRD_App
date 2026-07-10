@@ -1,0 +1,1 @@
+export function startVoice(){console.log('Voice engine placeholder');}

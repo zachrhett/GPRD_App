@@ -1,0 +1,22 @@
+[
+  {
+    "keyword": "production",
+    "route": "/production"
+  },
+  {
+    "keyword": "labor",
+    "route": "/labor"
+  },
+  {
+    "keyword": "sales",
+    "route": "/sales"
+  },
+  {
+    "keyword": "temperature",
+    "route": "/temperature/compliance"
+  },
+  {
+    "keyword": "store alerts",
+    "route": "/composite/store-alerts"
+  }
+]
